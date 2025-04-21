@@ -12,10 +12,6 @@ I'm always eager to learn, collaborate, and make the digital world a safer place
 
 - 📫 How to reach me: 1cyb3rpunk@proton.me
 
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/Ll8lfVWnBB6CxmtJ+RfrjA.png">
-</a>
-
 <!--
 **1cyb3rpunk/1Cyb3rpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
